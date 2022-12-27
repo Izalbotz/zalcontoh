@@ -42,43 +42,43 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['6288232154376', 'Izalbotz', true],//
+['62882016155766', 'Izalbotz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '62882016155766'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6285600633814'
+global.nomorown = '6285600633814'
+global.nomorownv2 = '6285600633814'
+global.nomorown1 = '6285600633814'
+global.nomorown2 = '6285600633814'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝙄𝙯𝙖𝙡'//nama group kalian
 global.author = 'AbiDev'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩'
-global.wm = '𝙭𝙧𝙗𝙤𝙩'
+global.namebot = '𝙕𝙖𝙡𝙓𝘿'
+global.wm = '𝙕𝙖𝙡𝙓𝘿'
 global.media = 'https://telegra.ph/file/b9c38c34238271d29e86e.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6285600633814'
 global.alllink = `https://youtube.com`
-global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
+global.wm2 = '𝙕𝙖𝙡𝙓𝘿'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `𝙕𝙖𝙡𝙓𝘿`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.stickauth = `© 𝙯𝙯𝙖𝙡𝙡`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '#𝐗𝐑𝐚𝐳'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩'
+global.nameown1= '#𝙕𝙖𝙡𝙓𝘿'
+global.nameown2 = '𝙕𝙖𝙡𝙓𝘿'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '-'
@@ -88,14 +88,14 @@ global.lynk = '-'
 global.sig = 'https://instagram.com/abityru'//Instagram klian
 global.sgh = 'https://github.com/AbiDev11' //github
 global.tautanwa = 'https://wa.me/6288232154376'
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu' //group whatsapp
 global.syt = '-' //youtube
 global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
+global.pdana = '6285600633814'
 global.povo = '-'
-global.pgopay = '0888232154376'
+global.pgopay = '6285600633814'
 global.plinkaja = '-' //link aja
 global.ppulsa = '-'
 global.ppulsa2 = '-'
